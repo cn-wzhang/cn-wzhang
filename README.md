@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Wayne and I’m currently learning GitHub.
 
 <!--
 **cn-wzhang/cn-wzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
